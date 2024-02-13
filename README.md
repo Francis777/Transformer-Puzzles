@@ -5,6 +5,8 @@
 </a>
 
 
+## Solution reference: https://srush.github.io/raspy/
+
 
 <!-- #region id="e9e822cb" -->
 This notebook is a collection of short coding puzzles based on the internals of the Transformer. The puzzles are written in Python and can be done in this notebook. After completing these you will have a much better intutive sense of how a Transformer can compute certain logical operations. 
